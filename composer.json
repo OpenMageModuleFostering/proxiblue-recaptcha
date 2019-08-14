@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/proxiblue-recaptcha",
+    "type": "magento-module",
+    "license": "Custom-License",
+    "homepage": "",
+    "description": "",
+    "authors": [
+    {
+        "name": "Lucas van Staden",
+        "email": "sales@proxiblue.com.au"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
